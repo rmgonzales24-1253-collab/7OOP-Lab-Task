@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=EDM-Portfolio%20Raymond%20Martin%20A.%20Gonzales&animation=fadeOut&type=waving&color=black&height=120&fontSize=40&fontColor=white"/>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Raymond%20Martin%20A.%20Gonzales&width=1500&height=150"/>
 </p>
 
 Welcome to my **Enterprise Data Management Portfolio**! This portfolio contains my EDM lab exercises, showcase my skills in organizing, managing, 
@@ -16,6 +16,7 @@ I am Quiet and Friendly, like to play games, and learn new things. I enjoy going
 - Motivation.
 
 I am always ready to **listen, learn, and adapt** to achieve my life goals.
+
 ---
 ## Education
 **Senior High School:** Angeles City National Trade School  
