@@ -6,7 +6,6 @@ Welcome to my **Enterprise Data Management Portfolio**! This portfolio contains 
 and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
 
 ---
-
 ## About Me
 I am Quiet and Friendly, like to play games, and learn new things. I enjoy going with some family or friends, and I'm not the type of person who talks first.
 
@@ -17,48 +16,29 @@ I am Quiet and Friendly, like to play games, and learn new things. I enjoy going
 - Motivation.
 
 I am always ready to **listen, learn, and adapt** to achieve my life goals.
-
 ---
-
 ## Education
 **Senior High School:** Angeles City National Trade School  
 **Junior High School:** Angeles City National High School  
 **Elementary:** Angeles City Elementary School
 
 ---  
-
 ## Languages I used before 
 - Java   
 - C
 
 ---
-
 ## My Projects  
 
 ###  MIDTERM  
 **MIDTERM LAB TASK 1:**   
-**MIDTERM LAB TASK 2:**   
-**MIDTERM LAB TASK 3:**   
-
 ---
-
-###  FINALS  
-**FINAL LAB TASK 1:**   
-**FINAL LAB TASK 2:**   
-**FINAL LAB TASK 3:**   
-**FINAL LAB TASK 5:**      
-**FINAL LAB TASK 6:**      
-
---- 
-
 ## Facts About Me:
 
 - I am really quiet
 - Kind person
 - Enjoys hobbies
-- 
 --- 
-
 ## Skills   
 - Active Listener
 - Patience
