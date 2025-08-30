@@ -32,7 +32,8 @@ I am always ready to **listen, learn, and adapt** to achieve my life goals.
 ## My Projects  
 
 ###  MIDTERM  
-**MIDTERM LAB TASK 1:**   
+**MIDTERM LAB TASK 1:** Tiny Hospital System   
+
 ---
 ## Facts About Me:
 
@@ -54,7 +55,7 @@ I am always ready to **listen, learn, and adapt** to achieve my life goals.
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rmgonzales24-1253@cca.edu.ph" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
   </a>
-  &nbsp;&nbsp;
+  
   <a href="https://www.facebook.com/raymond.martin.gonzales.2025" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40"/>
   </a>
