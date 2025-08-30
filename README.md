@@ -15,7 +15,7 @@ I am Quiet and Friendly, like to play games, and learn new things. I enjoy going
 - Learn and adapt to new things.
 - Motivation.
 
-I am always ready to **listen, learn, and adapt** to achieve my life goals.
+I am always ready to **Listen, Learn, and Adapt** to achieve my life goals.
 
 ---
 ## Education
@@ -40,6 +40,7 @@ I am always ready to **listen, learn, and adapt** to achieve my life goals.
 - I am really quiet
 - Kind person
 - Enjoys hobbies
+
 --- 
 ## Skills   
 - Active Listener
