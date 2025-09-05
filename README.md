@@ -27,6 +27,7 @@ I am always ready to **Listen, Learn, and Adapt** to achieve my life goals.
 ## Languages I used before 
 - Java   
 - C
+- Python
 
 ---
 ## My Projects  
