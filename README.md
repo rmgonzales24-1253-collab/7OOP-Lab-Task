@@ -34,9 +34,9 @@ I am always ready to **Listen, Learn, and Adapt** to achieve my life goals.
 
 ###  MIDTERM  
 **MIDTERM LAB TASK 1:** Tiny Hospital System   
-**MIDTERM LAB TASK 2:**
-**MIDTERM LAB TASK 3:**
-**MIDTERM LAB TASK 4:**
+**MIDTERM LAB TASK 2:**  
+**MIDTERM LAB TASK 3:**  
+**MIDTERM LAB TASK 4:**  
 
 ---
 ## Facts About Me:
