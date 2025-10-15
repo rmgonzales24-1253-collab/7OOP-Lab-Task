@@ -33,10 +33,11 @@ I am always ready to **Listen, Learn, and Adapt** to achieve my life goals.
 ## My Projects  
 
 ###  MIDTERM  
-**MIDTERM LAB TASK 1:** Tiny Hospital System   
-**MIDTERM LAB TASK 2:**  
-**MIDTERM LAB TASK 3:**  
-**MIDTERM LAB TASK 4:**  
+**MIDTERM LAB TASK 1:** [Tiny Hospital System](https://github.com/rmgonzales24-1253-collab/Tiny-Hospital-System/blob/main/C204-Tiny%20Hospital%20System-%20Gonzales%2C%20Raymond%20Martin%20A.%2C%20Calma%2C%20MIchael%20Vincent%2C%20L..pdf)  
+**MIDTERM LAB TASK 2:** [Loops and Function](https://github.com/rmgonzales24-1253-collab/Loops-and-Function/blob/main/Gonzales%2C%20Raymond%20Martin%20A%2C.pdf)  
+**MIDTERM LAB TASK 3:** [List Collection](https://github.com/rmgonzales24-1253-collab/List-Collection/blob/main/Gonzales%2C%20Raymond%20Martin%20A.%20Midterm%20Labtask%203.pdf)  
+**MIDTERM LAB TASK 4:** [Dictionaries](https://github.com/rmgonzales24-1253-collab/Dictionaries/blob/main/Gonzales%2C%20Raymond%20Martin%20A.%20Midterm%20Labtask%204.pdf)  
+**MIDTERM LAB TASK 5:**  Soon...
 
 ---
 ## Facts About Me:
