@@ -34,6 +34,9 @@ I am always ready to **Listen, Learn, and Adapt** to achieve my life goals.
 
 ###  MIDTERM  
 **MIDTERM LAB TASK 1:** Tiny Hospital System   
+**MIDTERM LAB TASK 2:**
+**MIDTERM LAB TASK 3:**
+**MIDTERM LAB TASK 4:**
 
 ---
 ## Facts About Me:
@@ -51,7 +54,7 @@ I am always ready to **Listen, Learn, and Adapt** to achieve my life goals.
 
 ---
 
-##  Click Below to Connect with Me!   
+##  Click the social buttons to see my profile on social media platforms with me.   
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rmgonzales24-1253@cca.edu.ph" target="_blank">
