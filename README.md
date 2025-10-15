@@ -55,7 +55,7 @@ I am always ready to **Listen, Learn, and Adapt** to achieve my life goals.
 
 ---
 
-##  Click the social buttons to see my profile on social media platforms with me.   
+##  Click the social buttons to see my profile on social media platforms about me.   
 
 <p align="left">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rmgonzales24-1253@cca.edu.ph" target="_blank">
