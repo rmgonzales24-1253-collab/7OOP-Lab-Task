@@ -39,7 +39,7 @@ I am always ready to **Listen, Learn, and Adapt** to achieve my life goals.
 **MIDTERM LAB TASK 4:** [Dictionaries](https://github.com/rmgonzales24-1253-collab/Dictionaries/blob/main/Gonzales%2C%20Raymond%20Martin%20A.%20Midterm%20Labtask%204.pdf)  
 **MIDTERM LAB TASK 5:** [Creating Classes and Objects](https://github.com/rmgonzales24-1253-collab/Creating-Classes-and-Objects/blob/main/Midterm%20Labtask%205%20Raymond%20Martin%20A.%20.pdf)  
 
-###[-----<>><<>><<>Finals<>><<>><<>-----]###
+###[-----<>><<>><<>Finals<>><<>><<>-----]###  
 **Final Lab Task 1** [Enscapulation](https://github.com/rmgonzales24-1253-collab/Encapsulation/blob/main/Final%20Lab%20task%201%20Gonzales%2C%20Raymond%20Martin%20A..docx.pdf)  
 
 ---
