@@ -6,6 +6,10 @@ Welcome to my **Enterprise Data Management Portfolio**! This portfolio contains 
 and handling data based on what I learned in class. It reflects my progress and understanding of the subject.
 
 ---
+<p align="Center">
+  <img src="https://github.com/rmgonzales24-1253-collab/7OOP-Lab-Task/blob/main/Picture%20of%20me.jpeg" width=250/>
+</p>
+
 ## About Me
 I am Quiet and Friendly, like to play games, and learn new things. I enjoy going with some family or friends, and I'm not the type of person who talks first.
 
